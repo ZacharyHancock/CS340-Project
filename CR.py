@@ -25,7 +25,7 @@ class AnimalShelter(object):
         #
         USER = userN
         PASS = passW
-        HOST = 'nv-desktop-services.apporto.com'
+        HOST = 'nv-desktop-services.apporto.com' # host not sensitive
         PORT = 34630
         DB = 'AAC'
         COL = 'animals'
